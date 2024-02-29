@@ -1,0 +1,36 @@
+#places{
+    background-color: lightgray;
+}
+.card1 {
+
+   
+    padding: 10px;
+    width: 100vw;
+    background-size: cover;
+    padding-top: 10px;
+
+
+}
+
+.place {
+    background-color: white;
+    padding-top: 10px;
+    margin: 10px 40px;
+    text-align: center;
+    border-radius: 15px;
+    width: 550px;
+    height: 350px;
+    box-shadow: 0px 5px 10px black;
+}
+
+.place_img {
+    width: 400px;
+    padding: 10px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+
+.placepara {
+    padding: 10px;
+}
